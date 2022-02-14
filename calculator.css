@@ -16,6 +16,7 @@ table{
 }
 input{
     font-size: xx-large;
+    width: 94%;
     border: 2px solid blue;
     border-radius: 9px;
 }
